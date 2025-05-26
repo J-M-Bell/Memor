@@ -1,0 +1,23 @@
+
+
+@startuml DBER Template
+
+'groups two or more similar arrows together
+skinparam groupInheritance 2
+
+'Entities
+
+
+'Relationship-Based Entities
+
+
+'Entity-Entity Arrows 
+'Including: Composition, Aggregation, and Extension/Inheritance [superclass notation])
+
+
+
+'Entity-Relationship Arrows 
+'Entity --> Relationship
+
+
+@enduml
