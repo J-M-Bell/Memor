@@ -1,1 +1,2 @@
-Memor
+# Memor
+A mobile journaling app
