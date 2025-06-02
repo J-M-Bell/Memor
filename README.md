@@ -1,2 +1,2 @@
 # Memor
-A mobile journaling app
+A gratefulness and dream journaling app
