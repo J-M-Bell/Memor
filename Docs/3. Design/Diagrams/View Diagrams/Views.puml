@@ -1,0 +1,9 @@
+@startuml
+object Views {
+    Welcome
+    Create Memor Account (Might be replaced with Google/Apple Sign in)
+    Entry List
+    Create Entry
+    Edit Entry
+}
+@enduml
