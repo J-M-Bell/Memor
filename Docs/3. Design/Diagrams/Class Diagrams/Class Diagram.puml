@@ -1,0 +1,21 @@
+
+
+@startuml Memor Class Diagram
+
+'groups two or more similar arrows together
+skinparam groupInheritance 2
+
+'Classes
+class DreamJournal 
+{
+-entryTitle : String
+}
+
+
+
+
+'Class Relationships (Composition, Aggregation, and Extension/Inheritance [superclass notation])
+
+
+
+@enduml
