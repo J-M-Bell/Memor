@@ -1,0 +1,16 @@
+
+
+@startuml Memor DBER
+
+'groups two or more similar arrows together
+skinparam groupInheritance 2
+
+'Entities
+
+
+
+'Entity-Relationship Arrows 
+'Entity --> Relationship
+
+
+@enduml
