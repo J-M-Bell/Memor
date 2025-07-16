@@ -1,0 +1,29 @@
+@startwbs
+* <Add project name> WBS
+
+** Planning Phase
+*** Complete Proposal Doc
+*** Create Roadmap Doc
+*** Create Risk Management Doc
+
+** Requirements Phase
+*** Complete Requirements Doc
+
+** Design Phase
+*** Complete Design Planning Doc
+*** Create Diagrams
+
+** Implementation Phase
+
+** Testing Phase
+*** Complete Test Planning Doc
+*** Create and Execute Tests
+
+** Deployment Phase
+*** Complete Deployment Notes Doc
+*** Complete User Manual Doc
+*** Deploy Project
+
+** Maintenance Phase
+*** Complete Maintenance Notes Doc
+@endwbs
