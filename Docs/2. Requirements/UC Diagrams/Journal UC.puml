@@ -1,0 +1,15 @@
+Journal Use Case 'Memor'
+
+@startuml 
+left to right direction
+actor "End User" as user
+rectangle Journal {
+	usecase "Create Journal Account" as UC1
+	usecase "Create Journal Entry" as UC2
+	usecase "Change Journal Entry" as UC3
+}
+
+user--> UC1
+user--> UC2
+user--> UC3
+@enduml
